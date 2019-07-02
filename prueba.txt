@@ -1,4 +1,6 @@
 Este es mensaje de prueba
 desde git
+-----------------------------
+este es el segundo commit de prueba
 
 
